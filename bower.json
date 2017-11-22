@@ -1,0 +1,22 @@
+{
+  "name": "font-noto",
+  "version": "0.0.1",
+  "description": "An HTML import for noto",
+  "authors": [
+    "RoXuS"
+  ],
+  "keywords": [
+    "font",
+    "noto"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/RoXuS/font-noto.git"
+  },
+  "main": "noto.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/RoXuS/font-noto/",
+  "ignore": [
+    "/.*"
+  ]
+}
